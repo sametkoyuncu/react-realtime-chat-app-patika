@@ -2,10 +2,10 @@
 
 ```shell
 cd backend
-npm instanll
+npm install
 npm run start
 
 cd ../client
-npm instanll
+npm install
 npm run start
 ```
